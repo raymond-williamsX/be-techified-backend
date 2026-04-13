@@ -1,0 +1,57 @@
+# JavaScript Backend Assignment
+
+## Overview
+This project is a simple introductory JavaScript backend assignment.
+It demonstrates how to:
+
+- Declare variables in JavaScript
+- Store basic personal information in variables
+- Print readable output to the console using `console.log()`
+
+The script outputs a short self-introduction including name, age, and favorite programming language.
+
+## Assignment Goal
+Create a JavaScript file that:
+
+1. Defines variables for personal information.
+2. Uses meaningful variable names.
+3. Prints each value in a complete sentence to the terminal.
+
+## Project Structure
+
+```
+.
+|-- intro.js
+`-- README
+```
+
+## Requirements
+
+- [Node.js](https://nodejs.org/) installed on your machine
+
+## How To Run
+
+1. Open a terminal in the project folder.
+2. Run the script:
+
+```bash
+node intro.js
+```
+
+## Expected Output
+
+```text
+My name is Raymond Iorliam
+I am 17 old
+My favourite programming Language is JavaScript
+```
+
+## Concepts Practiced
+
+- Variable declaration with `let`
+- String concatenation
+- Console output for backend scripting
+
+## Author
+Raymond Iorliam
+
